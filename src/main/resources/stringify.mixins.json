@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "learwin.stringify.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "stringify.refmap.json",
+  "mixins": [
+  ],
+  "client": ["AbstractContainerScreenMixin"],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "minVersion": "0.8"
+}
